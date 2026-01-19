@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Criando bugs desde 2024<br>📚 Atualmente estou aprendendo: Java<br>🎯 Objetivos: Programador Full-Stack<br>🎲 Curiosidade: Programar é diverção!</p>
+<p align="left">Criando bugs desde 2024<br>📚 Atualmente estou aprendendo: Java<br>🎯 Objetivos: Programador Full-Stack<br>🎲 Curiosidade: Programar vem sendo meu hobby!</p>
 
 ###
 
